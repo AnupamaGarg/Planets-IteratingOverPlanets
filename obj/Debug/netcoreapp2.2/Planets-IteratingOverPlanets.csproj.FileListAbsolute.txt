@@ -1,0 +1,11 @@
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\bin\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.deps.json
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\bin\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.runtimeconfig.json
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\bin\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.runtimeconfig.dev.json
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\bin\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.dll
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\bin\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.pdb
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.csprojAssemblyReference.cache
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.csproj.CoreCompileInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.AssemblyInfoInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.AssemblyInfo.cs
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.dll
+C:\Users\dolly\workspace\csharp\exercises\Planets-IteratingOverPlanets\obj\Debug\netcoreapp2.2\Planets-IteratingOverPlanets.pdb
